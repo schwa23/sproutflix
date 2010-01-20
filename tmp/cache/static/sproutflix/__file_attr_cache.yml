@@ -1,0 +1,111 @@
+--- 
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/resources/main.css: 
+  scan_source: 
+    value: []
+
+    mtime: 1264014967
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/controllers/instant_queue.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263941246
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/core.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263926478
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/fixtures/category.js: 
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - models/category
+    mtime: 1263937164
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/fixtures/queue.js: 
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - models/queue
+    mtime: 1263927703
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/fixtures/queue_item.js: 
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - models/queue_item
+    mtime: 1263937556
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/fixtures/recommendation_list.js: 
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - models/recommendation_list
+    mtime: 1264011329
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/fixtures/user.js: 
+  scan_source: 
+    value: 
+    - - sc_require
+      - "'"
+      - models/user
+    mtime: 1263927716
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/main.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1264022594
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/models/category.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263937268
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/models/queue.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263933930
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/models/queue_item.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263973980
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/models/recommendation_list.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1264012753
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/models/user.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263940383
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/resources/instant_queue_page.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263973702
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/resources/main_page.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1264022516
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/resources/search_page.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1263934663
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/resources/loading.rhtml: 
+  scan_source: 
+    value: []
+
+    mtime: 1263924543
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/controllers/recommendations.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1264022478
+/Users/schwa23/Documents/Projects/git/sproutflix/apps/sproutflix/resources/recommendations_page.js: 
+  scan_source: 
+    value: []
+
+    mtime: 1264022493
