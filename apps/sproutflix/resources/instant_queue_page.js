@@ -29,7 +29,8 @@ Sproutflix.instantQueuePage = SC.Page.design({
        selectionBinding: 'Sproutflix.instantQueueController.selection',
        contentValueKey: 'fullTitle',
        contentIconKey: 'mediumImage',
-       contentRightIconKey: 'playButton'
+       contentRightIconKey: 'playButton',
+       exampleView: Sproutflix.QueueItemView
        
      })
    })

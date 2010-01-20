@@ -1,0 +1,29 @@
+.queue-list .sc-list-item-view .rating {
+    position: absolute;
+    width: 55px;
+    height: 12px;
+    background-image: sc_static('images/sprite.png');
+    background-position: 0 -12px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border: none;
+    left: 108px;
+    margin-top: 12px;
+}
+
+.queue-list .sc-list-item-view .rating .inner {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 50%;
+    height: 100%;
+    background-image: sc_static('images/sprite.png');
+    background-position: 0 0px;
+    background-repeat: no-repeat;
+}
+
+.queue-list .sc-list-item-view .rating .hidden {
+    text-indent: -100000px;
+    position: absolute;
+}

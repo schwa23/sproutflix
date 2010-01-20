@@ -34,6 +34,7 @@ Sproutflix.QueueItem = SC.Record.extend(
     playButton: 'sc-icon-options-24'
     
     
+    
 
     // {
     //      "average_rating": "4.3",
